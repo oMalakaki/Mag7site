@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mag7site.git/static/css/main.bb9c5900.css",
+    "main.js": "/Mag7site.git/static/js/main.7b0d181a.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Mag7site.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Mag7site.git/index.html",
+    "main.bb9c5900.css.map": "/Mag7site.git/static/css/main.bb9c5900.css.map",
+    "main.7b0d181a.js.map": "/Mag7site.git/static/js/main.7b0d181a.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Mag7site.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb9c5900.css",
+    "static/js/main.7b0d181a.js"
+  ]
+}
