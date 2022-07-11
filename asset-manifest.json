@@ -1,15 +1,30 @@
 {
   "files": {
     "main.css": "/Mag7site/static/css/main.bb9c5900.css",
-    "main.js": "/Mag7site/static/js/main.9487324c.js",
+    "main.js": "/Mag7site/static/js/main.4e400798.js",
     "static/js/787.28cb0dcd.chunk.js": "/Mag7site/static/js/787.28cb0dcd.chunk.js",
+    "static/media/space.gif": "/Mag7site/static/media/space.3f3165177b4c7d76f81a.gif",
+    "static/media/brent-vs-cat.gif": "/Mag7site/static/media/brent-vs-cat.8864199fb9e6f80805db.gif",
+    "static/media/Toinf.png": "/Mag7site/static/media/Toinf.9d490615abacd9aa8080.png",
+    "static/media/beachchill.png": "/Mag7site/static/media/beachchill.b4d1a89e71e52e97d627.png",
+    "static/media/teamgames.png": "/Mag7site/static/media/teamgames.288b997633220199800e.png",
+    "static/media/jen.png": "/Mag7site/static/media/jen.1842130b7728a4c9be8c.png",
+    "static/media/caitlin.png": "/Mag7site/static/media/caitlin.800c82d2ca82ed268060.png",
+    "static/media/james.png": "/Mag7site/static/media/james.6895ba42203fea220b39.png",
+    "static/media/montri.png": "/Mag7site/static/media/montri.9cd1c2723b20871e78a1.png",
+    "static/media/brent.png": "/Mag7site/static/media/brent.239cbb9ff5da1e101ef3.png",
+    "static/media/Clients.png": "/Mag7site/static/media/Clients.962dfbab93da9b1c12ca.png",
+    "static/media/sword.png": "/Mag7site/static/media/sword.f73125844207d76d8911.png",
+    "static/media/GREATCOMES.png": "/Mag7site/static/media/GREATCOMES.cc13a743402092bd67cd.png",
+    "static/media/elisa.png": "/Mag7site/static/media/elisa.3fb06055e4476de6b938.png",
+    "static/media/lucas.png": "/Mag7site/static/media/lucas.f0845f495e4901cebe2b.png",
     "index.html": "/Mag7site/index.html",
     "main.bb9c5900.css.map": "/Mag7site/static/css/main.bb9c5900.css.map",
-    "main.9487324c.js.map": "/Mag7site/static/js/main.9487324c.js.map",
+    "main.4e400798.js.map": "/Mag7site/static/js/main.4e400798.js.map",
     "787.28cb0dcd.chunk.js.map": "/Mag7site/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb9c5900.css",
-    "static/js/main.9487324c.js"
+    "static/js/main.4e400798.js"
   ]
 }
