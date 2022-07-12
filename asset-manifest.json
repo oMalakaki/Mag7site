@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Mag7site/static/css/main.6bd1945a.css",
-    "main.js": "/Mag7site/static/js/main.06740974.js",
+    "main.css": "/Mag7site/static/css/main.89ae6f19.css",
+    "main.js": "/Mag7site/static/js/main.00102f36.js",
     "static/js/787.28cb0dcd.chunk.js": "/Mag7site/static/js/787.28cb0dcd.chunk.js",
     "static/media/space.gif": "/Mag7site/static/media/space.3f3165177b4c7d76f81a.gif",
     "static/media/brent-vs-cat.gif": "/Mag7site/static/media/brent-vs-cat.8864199fb9e6f80805db.gif",
@@ -26,12 +26,12 @@
     "static/media/elisa.png": "/Mag7site/static/media/elisa.3fb06055e4476de6b938.png",
     "static/media/lucas.png": "/Mag7site/static/media/lucas.f0845f495e4901cebe2b.png",
     "index.html": "/Mag7site/index.html",
-    "main.6bd1945a.css.map": "/Mag7site/static/css/main.6bd1945a.css.map",
-    "main.06740974.js.map": "/Mag7site/static/js/main.06740974.js.map",
+    "main.89ae6f19.css.map": "/Mag7site/static/css/main.89ae6f19.css.map",
+    "main.00102f36.js.map": "/Mag7site/static/js/main.00102f36.js.map",
     "787.28cb0dcd.chunk.js.map": "/Mag7site/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6bd1945a.css",
-    "static/js/main.06740974.js"
+    "static/css/main.89ae6f19.css",
+    "static/js/main.00102f36.js"
   ]
 }
