@@ -1,14 +1,28 @@
 {
   "files": {
-    "main.css": "/Mag7site/static/css/main.92c33dff.css",
-    "main.js": "/Mag7site/static/js/main.53882335.js",
+    "main.css": "/Mag7site/static/css/main.d9ff3b33.css",
+    "main.js": "/Mag7site/static/js/main.d0c27dbb.js",
     "static/js/787.28cb0dcd.chunk.js": "/Mag7site/static/js/787.28cb0dcd.chunk.js",
-    "static/media/space.gif": "/Mag7site/static/media/space.3f3165177b4c7d76f81a.gif",
+    "static/media/giphy13.gif": "/Mag7site/static/media/giphy13.f0ff7bc757dfe1725d92.gif",
+    "static/media/giphy9.gif": "/Mag7site/static/media/giphy9.1d9870155e91ab6f2281.gif",
     "static/media/brent-vs-cat.gif": "/Mag7site/static/media/brent-vs-cat.8864199fb9e6f80805db.gif",
+    "static/media/giphy12.gif": "/Mag7site/static/media/giphy12.78004c792e3f2a99715c.gif",
     "static/media/bloodysamurai.gif": "/Mag7site/static/media/bloodysamurai.d649edf67bffdd0caedc.gif",
     "static/media/walter.gif": "/Mag7site/static/media/walter.b861835568443123291d.gif",
     "static/media/sopranos.gif": "/Mag7site/static/media/sopranos.a9ef040fff5af3ebfa19.gif",
+    "static/media/giphy14.gif": "/Mag7site/static/media/giphy14.c8a6c3b40d832b7b5048.gif",
+    "static/media/giphy7.gif": "/Mag7site/static/media/giphy7.6e0b97d12423ee21aa85.gif",
+    "static/media/gif5.gif": "/Mag7site/static/media/gif5.739da125611e168a8568.gif",
+    "static/media/giphy11.gif": "/Mag7site/static/media/giphy11.1a1e8dc2432ac7ddb9ff.gif",
+    "static/media/gif2.gif": "/Mag7site/static/media/gif2.283c4dbb6efa0d8f3a12.gif",
+    "static/media/giphy15.gif": "/Mag7site/static/media/giphy15.0def8b500d610c91dd3d.gif",
+    "static/media/giphy6.gif": "/Mag7site/static/media/giphy6.73eba081d720bb780668.gif",
+    "static/media/gif4.gif": "/Mag7site/static/media/gif4.c4c5079eb0082c3fc569.gif",
+    "static/media/gif3.gif": "/Mag7site/static/media/gif3.1dddc58bb699c125d385.gif",
+    "static/media/kickin.gif": "/Mag7site/static/media/kickin.fe17ea52162edf82770f.gif",
+    "static/media/giphy8.gif": "/Mag7site/static/media/giphy8.d26110f6440c92ba464b.gif",
     "static/media/kcts9-Mockup.png": "/Mag7site/static/media/kcts9-Mockup.3030d210fed217ffe014.png",
+    "static/media/giphy10.gif": "/Mag7site/static/media/giphy10.4f10dbeaead36b7d21cc.gif",
     "static/media/crohns.png": "/Mag7site/static/media/crohns.1e3add8069d6ae7aa3e8.png",
     "static/media/Toinf.png": "/Mag7site/static/media/Toinf.9d490615abacd9aa8080.png",
     "static/media/beachchill.png": "/Mag7site/static/media/beachchill.b4d1a89e71e52e97d627.png",
@@ -26,12 +40,12 @@
     "static/media/elisa.png": "/Mag7site/static/media/elisa.3fb06055e4476de6b938.png",
     "static/media/lucas.png": "/Mag7site/static/media/lucas.f0845f495e4901cebe2b.png",
     "index.html": "/Mag7site/index.html",
-    "main.92c33dff.css.map": "/Mag7site/static/css/main.92c33dff.css.map",
-    "main.53882335.js.map": "/Mag7site/static/js/main.53882335.js.map",
+    "main.d9ff3b33.css.map": "/Mag7site/static/css/main.d9ff3b33.css.map",
+    "main.d0c27dbb.js.map": "/Mag7site/static/js/main.d0c27dbb.js.map",
     "787.28cb0dcd.chunk.js.map": "/Mag7site/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.92c33dff.css",
-    "static/js/main.53882335.js"
+    "static/css/main.d9ff3b33.css",
+    "static/js/main.d0c27dbb.js"
   ]
 }
